@@ -8,23 +8,23 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Thoughts"
-    url: /year-archive/
+ # - title: "Thoughts"
+ #   url: /year-archive/
     
-  - title: "Curate"
-    url: /curate/
+#  - title: "Curate"
+#    url: /curate/
     
-  - title: "Create"
-    url: /create/
+#  - title: "Create"
+ #   url: /create/
 
-  - title: "Guides"
-    url: /guides/
+ # - title: "Guides"
+ #   url: /guides/
     
-  - title: "Tools"
-    url: /tools/
+ # - title: "Tools"
+ #   url: /tools/
 
-  - title: "Organize"
-    url: /local-orgs/
+ # - title: "Organize"
+ #   url: /local-orgs/
 
 #  - title: "Publications"
 #    url: /publications/
@@ -41,11 +41,11 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
