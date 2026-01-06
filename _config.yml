@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : notes from the noise floor"
 title_separator          : "-"
-name                     : &name "Alexis Gee"
+name                     : &name "alexis gee"
 description              : &description "not optimized for engagement."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://alexis-gee.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "alexis-gee/alexis-gee.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Alexis Gee"
+  name             : "alexis gee"
   pronouns         : "she/her"
   bio              : "tech + media. broadcast engineer with an eye on information ecosystems and digital security. here to escape the algorithm."
   location         : "earth"
