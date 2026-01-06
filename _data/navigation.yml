@@ -10,8 +10,15 @@
 main:
  # - title: "Thoughts"
  #   url: /year-archive/
-    
+ 
+  - title: "half-baked"
+    url: /half-baked/
+
+  - title: "trinkets"
+    url: /trinkets/
+ 
 #  - title: "Curate"
+#    url: /curate/   #  - title: "Curate"
 #    url: /curate/
     
 #  - title: "Create"
