@@ -10,7 +10,9 @@
 main:
  # - title: "Thoughts"
  #   url: /year-archive/
- 
+  - title: "posts"
+    url: /posts/
+  
   - title: "half-baked"
     url: /half-baked/
 

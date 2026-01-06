@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : notes from the noise floor"
+title                    : "notes from the noise floor"
 title_separator          : "-"
 name                     : &name "alexis gee"
 description              : &description "not optimized for engagement."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "alexis gee"
   pronouns         : "she/her"
-  bio              : "tech + media. broadcast engineer with an eye on information ecosystems and digital security. here to escape the algorithm."
+  bio              : "tech + media. technologist with an eye on information ecosystems and digital security."
   location         : "earth"
   uri              : # URL
   email            : #"none@example.org" 
