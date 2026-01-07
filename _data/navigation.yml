@@ -13,11 +13,11 @@ main:
   - title: "posts"
     url: /posts/
   
-  - title: "half-baked"
-    url: /half-baked/
-
   - title: "trinkets"
     url: /trinkets/
+  
+  - title: "half-baked"
+    url: /half-baked/
  
 #  - title: "Curate"
 #    url: /curate/   #  - title: "Curate"
