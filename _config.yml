@@ -24,12 +24,12 @@ repository               : "alexis-gee/alexis-gee.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "alexis gee"
+  name             : "Alexis Gee"
   pronouns         : "she/her"
   bio              : "tech + media. technologist with an eye on information ecosystems and digital security."
   location         : "Earth"
   uri              : # URL
-  email            : #"none@example.org" 
+  email            : "geealexis@proton.me" 
 
   # Academic websites
   academia         : # URL
