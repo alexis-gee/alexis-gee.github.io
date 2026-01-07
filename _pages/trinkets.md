@@ -11,11 +11,12 @@ layout: single
 
 <img src="[icon.png](https://raw.githubusercontent.com/alexis-gee/alexis-gee.github.io/refs/heads/master/images/pc_zine_thumb.png)">
 
-| <img src="[icon.png](https://raw.githubusercontent.com/alexis-gee/alexis-gee.github.io/refs/heads/master/images/pc_zine_thumb.png)"> | [PC Problem Pocket Zine - A beginner's guide to fixing common computer problems.](alexis-gee/alexis-gee.github.io/files/PC-Zine-2026-Printable-sm.pdf) |
+| <img src="https://raw.githubusercontent.com/alexis-gee/alexis-gee.github.io/refs/heads/master/images/pc_zine_thumb.png"> | [PC Problem Pocket Zine - A beginner's guide to fixing common computer problems.](alexis-gee/alexis-gee.github.io/files/PC-Zine-2026-Printable-sm.pdf) |
 |--|--|
 ### Resources
 - **[EFF One-Pager Handouts](https://www.eff.org/pages/eff-one-pager-handouts)**  
 Free printable handouts from the Electronic Frontier Foundation on topics ranging from creative rights, privacy, and security.
+
 
 
 
