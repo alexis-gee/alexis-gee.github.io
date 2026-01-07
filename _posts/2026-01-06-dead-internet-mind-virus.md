@@ -13,7 +13,7 @@ A lot of this didn’t even start organically. [Troll farms](https://www.heinz.c
 
 The human vulnerabilities are predictable:
 - emotional manipulation  
-- othering of the [out-group](https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/)  
+- [othering of the out-group](https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/)  
 - [fear of standing out](https://aisel.aisnet.org/thci/vol17/iss2/2/)  
 - [normalization through repetition](https://en.wikipedia.org/wiki/Creeping_normality)  
 - [fatigue](https://en.wikipedia.org/wiki/Media_fatigue) and overstimulation  
@@ -23,7 +23,7 @@ Every time I scroll past obvious fake content or check comments just to see if I
 
 Most people don’t notice when it’s happening (or at least not until more recently). [We’re all susceptible](https://www.ucsf.edu/news/2025/07/430446/why-smart-people-fall-false-information-and-what-do-about-it) to manipulation and [addiction](https://www.addictioncenter.com/behavioral-addictions/social-media-addiction/) to this stuff, and it’s worse when we are [more burned out than ever](https://www.wcbu.org/local-news/2024-10-01/american-workers-are-burning-out-in-what-experts-call-a-great-exhaustion).
 
-Resisting this isn’t about being “smarter.” We could notice when we are being provoked and choose not to perform on command. But that places responsibility solely on the individual user. In addition to AI-enhanced actors that are trying to influence us, these platforms are designed to extract attention at scale. The odds are stacked against us when those who control our communication platforms benefit from our perpetual scrolling. We are their product.
+Resisting this isn’t about being “smarter.” We could notice when we are being provoked and choose not to perform on command. We could all just log off. But that places responsibility solely on the individual user. In addition to AI-enhanced actors that are trying to influence us, these platforms are designed to extract attention at scale. The odds are stacked against us when those who control our communication platforms benefit from our perpetual scrolling. We are their product.
 
 There are a lot of hard questions that we *really* need to sit with and stop ignoring. We are way beyond just asking *what’s wrong with the internet*.
 
