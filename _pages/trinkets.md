@@ -7,7 +7,7 @@ layout: archive
 *A place for collecting things.*
 
 ### Stuff I've made
-| ![image](https://raw.githubusercontent.com/alexis-gee/alexis-gee.github.io/refs/heads/master/images/pc_zine_thumb.png) | [PC Problem Pocket Zine: A beginner's guide to fixing common computer problems.](alexis-gee/alexis-gee.github.io/files/PC-Zine-2026-Printable-sm.pdf) by Alexis Gee - January 2026 |
+| ![image](https://raw.githubusercontent.com/alexis-gee/alexis-gee.github.io/refs/heads/master/images/pc_zine_thumb.png) | [PC Problem Pocket Zine: A beginner's guide to fixing common computer problems.](https://alexis-gee.github.io/files/2026-pc-zine-printable.pdf) by Alexis Gee - January 2026 |
 |------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### Resources
