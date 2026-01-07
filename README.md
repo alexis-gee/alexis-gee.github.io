@@ -9,6 +9,7 @@ Notes to self because I will forget - the source template for this site is here:
 
 ### starting out
 [About](_pages/about.md) - Homepage  
+[posts](_pages/posts.html)
 [half-baked](_pages/half-baked.md) - thoughts dumping ground  
 [trinkets](_pages/trinkets.md) - links collection. favorites. tools.  
 

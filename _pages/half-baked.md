@@ -3,12 +3,9 @@ title: half-baked
 permalink: /half-baked/
 layout: archive
 ---
+_maybe i can turn this into something nice and polished someday. for now, i'm relieving myself of that pressure and allowing space for things to just come into existence, complete or incomplete. i'm opting out of perfectionism this year._  
 
 # dumping ground
-
-_maybe i can turn this into something nice and polished someday. for now, i'm relieving myself of that pressure and allowing space for things to just come into existence, complete or incomplete. drafts are for perfectionists, and i'm opting out of that this year._  
-
-
 
 ## 2026.01.06
 ### a space to share

@@ -1,5 +1,5 @@
 ---
-title: 'dead internet + mind virus'
+title: 'dead internet mind virus'
 date: 2026-01-06
 permalink: /posts/2026/01/dead-internet-mind-virus/
 tags:
@@ -7,25 +7,33 @@ tags:
   - internet
   - society
 ---
-[dead internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory) is an idea that has been around since 2016 that most interactions online are from bots or generated content manipulated by algorithmic curation. while not all of it is accurate, the extent of inauthentic content becomes more visible every day with the amount of ai slop being injected straight into our feeds and comment sections. one thing i think about a lot, though, is the influence of fake interactions on the behavior of actual people online.  
+I think less about whether the internet is “dead” and more about what fake interactions are doing to real people.
 
-like, we all know that the internet is full of terrible people that act in horrific ways to each other. but we weren't always like this, "dunking" on each other for social credit from "peers." most of us weren't raised this way. garbage behavior is always favored in an algorithmic environment that rewards outrage. and, some of that outrage initially started as [troll farm](https://en.wikipedia.org/wiki/Internet_Research_Agency) engagement strategy.  
+Bots, generated content, and algorithmic amplification don’t just distort reality. They train behavior. Outrage gets rewarded. Performative dunking becomes normal. Escalation looks like participation.
+
+A lot of this didn’t even start organically. [Troll farms](https://www.heinz.cmu.edu/media/2018/October/troll-farms-and-fake-news-social-media-weaponization) and other experimentation with [emotional engagement strategies](https://www.journals.uchicago.edu/doi/abs/10.1017/s0022381612000540) proved long ago that anger spreads faster than truth. Now those same dynamics are automated and scaled.
+
+The human vulnerabilities are predictable:
+- emotional manipulation  
+- othering of the [out-group](https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/)  
+- [fear of standing out](https://aisel.aisnet.org/thci/vol17/iss2/2/)  
+- [normalization through repetition](https://en.wikipedia.org/wiki/Creeping_normality)  
+- [fatigue](https://en.wikipedia.org/wiki/Media_fatigue) and overstimulation  
+- outsourcing thinking to loud, confident voices  
+
+Every time I scroll past obvious fake content or check comments just to see if I’m losing my mind, I lose energy. Attention. [Decision-making capacity](https://en.wikipedia.org/wiki/Decision_fatigue). That drain isn’t accidental.
+
+Most people don’t notice when it’s happening (or at least not until more recently). And it’s not because we’re stupid. [We’re all susceptible](https://www.ucsf.edu/news/2025/07/430446/why-smart-people-fall-false-information-and-what-do-about-it) to manipulation, and it’s worse when we are [more burned out than ever](https://www.wcbu.org/local-news/2024-10-01/american-workers-are-burning-out-in-what-experts-call-a-great-exhaustion).
+
+Resisting this isn’t about being “smarter.” It’s about slowing down, noticing when something is trying to provoke you, and choosing not to perform on command. But the odds are stacked against us when those who control our communication platforms benefit from our perpetual scrolling. We are their product. They want to control us.
+
+The hard question now, though, isn’t just *what’s wrong with the internet*.
+
+It’s *how do we fix this?*
+---
+
+(related: [Asch conformity experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments) + “[It Only Takes One Person Telling the Truth to Shatter Mind Control](https://www.youtube.com/watch?v=pCzPSvL4C_o)”)
 
 
-on the human side, there are many elements that are tripping people up:   
-1) emotional manipulation: outrage, fear, "other"  
-2) conformity: fear of standing out, sense of belonging  
-3) normalization: the slow drip of propaganda poisoning the mind  
-4) fatigue: exhaustion, overstimulation, overwhelm  
-5) blind faith: trusting people to make thought decisions for you   
-5) performance: posting "look at this thing that's happening now" commentary without deeper anaylsis, contribution, or self involvement in problem solving  
-
- every time i am forced to speed scroll past some faked piece of content or click into the comments section just to check my own sanity, i lose precious energy and decision making capacity that i could have used elsewhere. but i am aware of this happening, and i'm here because i refuse to participate. i notice when something is sapping my energy. i notice when something is trying to rile me up to get a reaction.  
-
-most people don't realize when these things are happening. we are all susceptible, no matter how "smart" we believe we are. resilience to these things, i think, is going to take a massive increase in emotional intelligence and the ability to slow down and think before reacting. i don't think that is going to happen organically at a speed that will outpace psychological manipulation capabilities enhanced with ai. the people who have the funding to manipulate us are pretty good at doing so. but that doesn't mean we shouldn't push back.  
-
-but what now? what of the dopamine slot machine? where do we lead us?  
 
 
-**relevant content**:  commentary on the [asch conformity experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments) from @goobieanddoobie:   
-**[It Only Takes One Person Telling The Truth To Shatter Mind Control](https://www.youtube.com/watch?v=pCzPSvL4C_o)**  
