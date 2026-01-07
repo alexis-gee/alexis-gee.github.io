@@ -4,14 +4,16 @@ permalink: /trinkets/
 layout: archive
 ---
 
-*link storage.*
+*A place for collecting things.*
 
-# Things I've Made
+### Stuff I've made
+| ![image](https://raw.githubusercontent.com/alexis-gee/alexis-gee.github.io/refs/heads/master/images/pc_zine_thumb.png) | [PC Problem Pocket Zine: A beginner's guide to fixing common computer problems.](alexis-gee/alexis-gee.github.io/files/PC-Zine-2026-Printable-sm.pdf) by Alexis Gee - January 2026 |
+|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-
-## Resources
-**[EFF One-Pager Handouts](https://www.eff.org/pages/eff-one-pager-handouts)**
+### Resources
+- **[EFF One-Pager Handouts](https://www.eff.org/pages/eff-one-pager-handouts)**  
 Free printable handouts from the Electronic Frontier Foundation on topics ranging from creative rights, privacy, and security.
+
 
 
 
