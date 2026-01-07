@@ -2,8 +2,6 @@
 
 This repository is for my personal GitHub page at [https://alexis-gee.github.io](https://alexis-gee.github.io) and I'm using it as a personal (but public) space to collect things and share my thoughts.  
 
-In a world driven by algorithms and in walled off social silos, I'm aiming to reclaim my personal peace away from the visual noise and clutter. Sometimes we just need space to think.  
-
 Notes to self because I will forget - the source template for this site is here:
 [https://github.com/academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)  
 
