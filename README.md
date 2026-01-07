@@ -1,4 +1,4 @@
-# personal website repo
+# website repo
 
 This repository is for my personal GitHub page at [https://alexis-gee.github.io](https://alexis-gee.github.io) and I'm using it as a personal (but public) space to collect things and share my thoughts.  
 
