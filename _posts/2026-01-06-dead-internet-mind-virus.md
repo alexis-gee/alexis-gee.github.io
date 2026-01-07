@@ -1,5 +1,5 @@
 ---
-title: 'dead internet theory + mind virus'
+title: 'dead internet + mind virus'
 date: 2026-01-06
 permalink: /posts/2026/01/dead-internet-mind-virus/
 tags:
