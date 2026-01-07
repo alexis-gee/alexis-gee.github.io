@@ -7,8 +7,6 @@ tags:
   - internet
   - society
 ---
-
-### dead internet theory + mind virus
 [dead internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory) is an idea that has been around since 2016 that most interactions online are from bots or generated content manipulated by algorithmic curation. while not all of it is accurate, the extent of inauthentic content becomes more visible every day with the amount of ai slop being injected straight into our feeds and comment sections. one thing i think about a lot, though, is the influence of fake interactions on the behavior of actual people online.  
 
 like, we all know that the internet is full of terrible people that act in horrific ways to each other. but we weren't always like this, "dunking" on each other for social credit from "peers." most of us weren't raised this way. garbage behavior is always favored in an algorithmic environment that rewards outrage. and, some of that outrage initially started as [troll farm](https://en.wikipedia.org/wiki/Internet_Research_Agency) engagement strategy.  
