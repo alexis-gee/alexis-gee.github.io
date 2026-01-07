@@ -6,11 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="text-align: center;">
   
 ### sometimes i make stuff. 
   
 ### sometimes i find stuff.  
   
-### sometimes i just want to write and expand on the ideas kicking around in my head.  
-  
+### sometimes i just want to write.  
+
+</div>
