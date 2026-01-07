@@ -7,9 +7,7 @@ tags:
   - internet
   - society
 ---
-I think less about whether the internet is “dead” and more about what fake interactions are doing to real people.  
-
-Bots, generated content, and algorithmic amplification don’t just distort reality. They train behavior. Outrage gets rewarded. Performative dunking becomes normal. Escalation looks like participation.  
+I think less about whether the internet is “dead” and more about what fake interactions are doing to real people. Bots, generated content, and algorithmic amplification don’t just distort reality. They train behavior. Outrage gets rewarded. Performative dunking becomes normal. Escalation looks like participation.  
 
 A lot of this didn’t even start organically. [Troll farms](https://www.heinz.cmu.edu/media/2018/October/troll-farms-and-fake-news-social-media-weaponization) and other experimentation with [emotional engagement strategies](https://www.journals.uchicago.edu/doi/abs/10.1017/s0022381612000540) proved long ago that anger spreads faster than truth. Now those same dynamics are automated and scaled.  
 
