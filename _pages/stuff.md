@@ -1,6 +1,6 @@
 ---
-title: trinkets
-permalink: /trinkets/
+title: stuff
+permalink: /stuff/
 layout: single
 ---
 
@@ -13,6 +13,7 @@ layout: single
 ### Resources
 - **[EFF One-Pager Handouts](https://www.eff.org/pages/eff-one-pager-handouts)**  
 Free printable handouts from the Electronic Frontier Foundation on topics ranging from creative rights, privacy, and security.
+
 
 
 
