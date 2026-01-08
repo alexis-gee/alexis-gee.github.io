@@ -8,11 +8,12 @@ layout: single
 
 | Image | Link |
 |:--------|:--------|
-| <img src="https://raw.githubusercontent.com/alexis-gee/alexis-gee.github.io/refs/heads/master/images/pc_zine_thumb.png" width="100" height="133">   | [PC Problem Pocket Zine - A beginner's guide to fixing common computer problems.](alexis-gee/alexis-gee.github.io/files/2026-pc-zine-printable.pdf) This is a short, printable guide that gives tips on troubleshooting common computer issues. Created for a repair fair in January 2026, free for distribution.   |
+| <img src="https://raw.githubusercontent.com/alexis-gee/alexis-gee.github.io/refs/heads/master/images/pc_zine_thumb.png" width="100" height="133">   | [PC Problem Pocket Zine - A beginner's guide to fixing common computer problems.](https://alexis-gee.github.io/files/2026-pc-zine-printable.pdf) This is a short, printable guide that gives tips on troubleshooting common computer issues. Created for a repair fair in January 2026, free for distribution.   |
 
 ### Resources
 - **[EFF One-Pager Handouts](https://www.eff.org/pages/eff-one-pager-handouts)**  
 Free printable handouts from the Electronic Frontier Foundation on topics ranging from creative rights, privacy, and security.
+
 
 
 
