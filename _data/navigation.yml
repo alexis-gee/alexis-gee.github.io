@@ -13,8 +13,8 @@ main:
   - title: "posts"
     url: /posts/
   
-  - title: "trinkets"
-    url: /trinkets/
+  - title: "stuff"
+    url: /stuff/
   
   - title: "half-baked"
     url: /half-baked/
