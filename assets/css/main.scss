@@ -43,5 +43,12 @@
 ;
 /* Increase gap between sidebar and content */
 .sidebar {
-  padding-right: 15px;
+  padding-right: 10px;
+}
+
+
+@media (max-width: 768px) {
+  .sidebar {
+    margin-bottom: 10px !important;
+  }
 }
