@@ -11,7 +11,7 @@ if you don't know how to explain something plainly, you don't really understand 
 when i don't understand the point someone is making, it's usually because they are:
 1) intentionally making it unclear and shrouding the concept.
 2) using complex words to elevate their perceived status or intelligence, which defeats the purpose of explanation.    
-3) using too much field-specific terminology and not remembering what people don't know.
+3) using too many field-specific words and not remembering what people don't know.
 
 the jargon issue is something i'm guilty of myself, especially after i spend too much time in one information bubble. it's easy to start communicating in shortcuts when the fundamentals of a field (or social chamber) are assumed knowledge. those shortcut words are fine if you're speaking to others who share the same background, but if you want to broaden your audience and actually communicate, you have to meet them where they are. 
 
@@ -28,6 +28,7 @@ meet people where they are. if they don't understand, it won't make an impact. i
 having a person you can rely on to share stuff with is awesome. but have you ever just made something exist and put it out there?  
 
 nobody needs to give you permission, and not all feedback is valuable, actually. 
+
 
 
 
