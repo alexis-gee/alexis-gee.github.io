@@ -19,7 +19,7 @@ some concepts just have to be repeatedly introduced for them to stick. some of u
 
 i'm not arguing against language or vocabulary. in fact, we should keep developing terms as our ideas become more cohesive. we have to name the thing before we can dialogue about the thing. that is fundamental to growth and deeper understanding. 
 
-at the same time, we should push back against the constant stripping of meaning from words that describe important ideas. it might feel pointless to challenge someone who is intentionally contorting language... but they aren't always the real audience. spectators matter. third parties are an opportunity to teach.  
+at the same time, we should push back against the constant stripping of meaning from words that describe important ideas. it might feel pointless to challenge someone who is intentionally contorting language... but they aren't always the real audience. spectators matter; these third parties are an opportunity to teach.  
 
 meet people where they are. if they don't understand, it won't make an impact. if it isn't accessible, it isn't revolutionary.  
 
@@ -28,6 +28,7 @@ meet people where they are. if they don't understand, it won't make an impact. i
 having a person you can rely on to share stuff with is awesome. but have you ever just made something exist and put it out there?  
 
 nobody needs to give you permission, and not all feedback is valuable, actually. 
+
 
 
 
