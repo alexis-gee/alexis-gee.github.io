@@ -3,7 +3,7 @@ title: half-baked
 permalink: /half-baked/
 layout: archive
 ---
-_thoughts & tangents_  
+_thoughts, tangents, analysis_  
 
 ## 2026.01.09
 if you don't know how to explain something plainly, you don't really understand it, and you won't have wide impact.  
@@ -28,6 +28,7 @@ meet people where they are. if they don't understand, it won't make an impact. i
 having a person you can rely on to share stuff with is awesome. but have you ever just made something exist and put it out there?  
 
 nobody needs to give you permission, and not all feedback is valuable, actually. 
+
 
 
 
